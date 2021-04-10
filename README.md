@@ -2,7 +2,15 @@
 
 ニコニコ動画におけるタイトルもしくはタグに検索キーワードを含む動画を投稿している合計総合ポイントの高い投稿者のランキングのDBを作成するためのスクリプト
 
+以下のようにデータベースを解析してランキング動画で使用しています 
+
+https://www.upload.nicovideo.jp/garage/series/97621
+
 A script for creating a ranking of posters with a high total total points who are posting videos that include search keywords in the title or tag of Nico Nico Douga.
+
+We analyze the database as follows and use it in the ranking video
+
+https://www.upload.nicovideo.jp/garage/series/97621
 
 # DEMO
 
